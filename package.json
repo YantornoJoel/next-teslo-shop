@@ -2,7 +2,7 @@
   "name": "teslo-shop",
    "engines": {
     "node": "16.14.2"
-  }
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
